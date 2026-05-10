@@ -15,7 +15,7 @@ namespace MediaPlayer
         public frmMediaPlayer()
         {
             InitializeComponent();
-        }
+        } 
 
         private void btnBrowser_Click(object sender, EventArgs e)
         {
